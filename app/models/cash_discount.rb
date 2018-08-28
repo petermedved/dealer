@@ -1,0 +1,2 @@
+class CashDiscount < ApplicationRecord
+end

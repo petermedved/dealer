@@ -1,0 +1,2 @@
+class Teeth < ApplicationRecord
+end

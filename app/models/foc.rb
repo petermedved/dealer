@@ -1,0 +1,2 @@
+class Foc < ApplicationRecord
+end
